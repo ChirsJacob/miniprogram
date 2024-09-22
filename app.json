@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/news/list/index",
+    "pages/news/details/index",
+    "pages/mine/index/index",
+    "pages/login/login"
+  ],
+  "tabBar": {
+    "color": "#989898",
+    "selectedColor": "#13227a",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/pages/images/tabBar/index.png",
+        "selectedIconPath": "/pages/images/tabBar/index_select.png"
+      },
+      {
+        "pagePath": "pages/news/list/index",
+        "text": "每日新闻",
+        "iconPath": "/pages/images/tabBar/news.png",
+        "selectedIconPath": "/pages/images/tabBar/news_select.png"
+      },
+      {
+        "pagePath": "pages/mine/index/index",
+        "text": "我的",
+        "iconPath": "/pages/images/tabBar/about.png",
+        "selectedIconPath": "/pages/images/tabBar/about_select.png"
+      }
+    ]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#2b4b6b",
+    "navigationBarTitleText": "期末大作业-20-蔡浩森",
+    "navigationBarTextStyle": "white"
+  }
+  
+}

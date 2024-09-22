@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "myTabBar": "/components/myTabBar/index"
+  },
+  "enablePullDownRefresh": true 
+}

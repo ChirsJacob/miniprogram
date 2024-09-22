@@ -1,0 +1,9 @@
+/* components/ZJ-footer/ZJ-footer.wxss */
+.one{
+  height: 70rpx;
+  width: 100%;
+  padding: 5rpx 0;
+  font-size: 25rpx;
+  text-align: center;
+  background-color: lightgrey;
+}

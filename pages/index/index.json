@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "Footer":"/components/Footer/Footer",
+    "myTabBar": "/components/myTabBar/index"
+  }
+}

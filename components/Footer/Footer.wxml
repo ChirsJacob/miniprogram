@@ -1,0 +1,5 @@
+<!--components/ZJ-footer/ZJ-footer.wxml-->
+<view class="one">
+  <view> Copyright ©2024版权所属：蔡浩森</view>
+  <view>广东省广州市花都区赤坭大道3号</view>
+</view>
